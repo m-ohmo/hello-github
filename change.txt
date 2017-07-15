@@ -1,0 +1,4 @@
+developで変更しました
+bug/fixで2回目変更しました
+bug/fixで３回目の変更
+bug/fixで4回目の変更
